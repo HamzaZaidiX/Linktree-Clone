@@ -2,27 +2,30 @@
 
 ## Intro 📝
 
-This project is a clone of the popular Linktree platform, built using Next.js, MongoDB and Tailwind CSS. It allows users to create and manage their own personalized linktree pages. 🌟
+**This project is a clone of the popular Linktree platform, built using Next.js, MongoDB and Tailwind CSS. It allows users to create and manage their own personalized linktree pages.** 🌟
 
 ## Features 🌟
 
-- User-friendly interface for creating and managing linktree pages 💻
-- Ability to add custom links, descriptions, and pictures 📷
-- Responsive design using Tailwind CSS 🎨
-- Real-time notifications using React-Toastify 🔔
-- Backend API built with Next.js and MongoDB 🗄️
+- User-friendly interface for **creating and managing linktree pages** 💻
+- Ability to add **custom links, descriptions, and pictures** 📷
+- Responsive **design using Tailwind CSS** 🎨
+- **Real-time notifications using React-Toastify** 🔔
+- **Backend API built with Next.js and MongoDB** 🗄️
 
 ### Demo Website Click Here!
 
 ## Materials Used 🛠️
 
-- Next.js: A React framework for building server-side rendered applications ⚛️
-- MongoDB: A NoSQL database for storing user data 🍃
-- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs 🌈
-- React-Toastify: A React component for displaying toast notifications 🍞
+- [Next.js](https://nextjs.org/): A **React framework for building server-side rendered applications** ⚛️
+- [MongoDB](https://www.mongodb.com/): A **NoSQL database for storing user data** 🍃
+- [Tailwind CSS](https://tailwindcss.com/): A **utility-first CSS framework for rapidly building custom designs** 🌈
+- [React-Toastify](https://www.npmjs.com/package/react-toastify): A **React component for displaying toast notifications** 🍞
 
 ## Screenshots 📸
-
+![homepage](https://github.com/user-attachments/assets/e4e6b323-2658-442d-9b8b-56afc8da4fa8)
+![generate (1)](https://github.com/user-attachments/assets/3d3d173a-22cf-49be-af14-05163c2f34db)
+![profile](https://github.com/user-attachments/assets/32d6ea00-2a3b-4a8c-ac4d-20467ec22c45)
+![link](https://github.com/user-attachments/assets/43e09b1a-3c14-46c6-b939-420ad0e1416a)
 
 ## Getting Started 🏁
 
